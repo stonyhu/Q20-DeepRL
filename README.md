@@ -21,6 +21,6 @@ If you find this useful for your research, please cite the following paper.
     address = "Brussels, Belgium",
     publisher = "Association for Computational Linguistics",
     url = "https://www.aclweb.org/anthology/D18-1361",
-    pages = "3233--3242"
+    pages = "3233--3242",
 }
 ```

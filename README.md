@@ -1,5 +1,11 @@
 # Playing-20-Question-Game-with-Policy-Based-Reinforcement-Learning
 
+## Requirements and Installation
+We recommended the following dependencies.
+
+* Python 2.7
+* Tensorflow 1.4.0
+* [TensorBoard](https://github.com/TeamHG-Memex/tensorboard_logger)
 
 ## Citation
 

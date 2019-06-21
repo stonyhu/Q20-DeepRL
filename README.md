@@ -13,7 +13,7 @@ We recommended the following dependencies.
 
 ## Citation
 
-If you find this useful for your research, please cite the following paper.
+If you find this work useful for your research, please cite the following paper.
 
 ```
 @inproceedings{hu-etal-2018-playing,

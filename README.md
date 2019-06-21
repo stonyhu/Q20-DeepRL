@@ -1,4 +1,4 @@
-## Playing-20-Question-Game-with-Policy-Based-Reinforcement-Learning
+# Playing 20 Question Game with Policy-Based Reinforcement Learning
 
 **[Huang Hu, Xianchao Wu, Bingfeng Luo, Chongyang Tao, Can Xu, Wei Wu and Zhan Chen. 2018. Playing 20 Question Game with Policy-Based Reinforcement Learning](https://www.aclweb.org/anthology/D18-1361).**
 

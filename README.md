@@ -1,4 +1,6 @@
 # Playing 20 Question Game with Policy-Based Reinforcement Learning
+
+## Reference
 [Playing 20 Question Game with Policy-Based Reinforcement Learning](https://www.aclweb.org/anthology/D18-1361).
 Huang Hu, Xianchao Wu, Bingfeng Luo, Chongyang Tao, Can Xu, Wei Wu and Zhan Chen. EMNLP, 2018. 
 

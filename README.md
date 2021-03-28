@@ -2,7 +2,7 @@
 
 ### Reference
 [Playing 20 Question Game with Policy-Based Reinforcement Learning](https://arxiv.org/pdf/1808.07645v3.pdf). <br>
-Huang Hu, Xianchao Wu, Bingfeng Luo, Chongyang Tao, Can Xu, Wei Wu and Zhan Chen. EMNLP, 2018.
+Huang Hu, Xianchao Wu, Bingfeng Luo, Chongyang Tao, Can Xu, Wei Wu and Zhan Chen. <strong>EMNLP</strong>, 2018.
 
 ### Requirements and Installation
 We recommended the following dependencies.

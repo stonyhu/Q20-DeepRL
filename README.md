@@ -15,7 +15,7 @@ We recommended the following dependencies.
 
 If you find this work useful for your research, please cite the following paper.
 
-```
+```bibtex
 @inproceedings{hu-etal-2018-playing,
     title = "Playing 20 Question Game with Policy-Based Reinforcement Learning",
     author = "Hu, Huang and Wu, Xianchao and Luo, Bingfeng and Tao, Chongyang and Xu, Can and Wu, Wei and Chen, Zhan",
